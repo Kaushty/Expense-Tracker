@@ -9,11 +9,11 @@ It allows users to add new expenses, view all expenses made so far, get a weekly
 ## Instructions
 
 Clone or fork the repository to your local machine. <br />
-Run the main.py file. This module imports the dependencies required for the program to function.
-The user is then greeted with a simple and self-explanatory cli Ui which asks for user's choice.
-User is required to enter his / her choice by selection an option as shown.
+Run the main.py file. This module imports the dependencies required for the program to function. <br />
+The user is then greeted with a simple and self-explanatory cli Ui which asks for user's choice. <br />
+User is required to enter his / her choice by selecting an option from the available choices shown.
 
-## Dependecies
+## Built Using
 
 * Python 3
 * Python Pandas
